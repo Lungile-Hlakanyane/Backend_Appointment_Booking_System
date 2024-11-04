@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|c:\\users\\user\\source\\repos\\appointmentbookingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|c:\\users\\user\\source\\repos\\appointmentbookingsystem\\implementation\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|solutionrelative:implementation\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|c:\\users\\user\\source\\repos\\appointmentbookingsystem\\implementation\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|solutionrelative:implementation\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|c:\\users\\user\\source\\repos\\appointmentbookingsystem\\interface\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|solutionrelative:interface\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|c:\\users\\user\\source\\repos\\appointmentbookingsystem\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|solutionrelative:controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|c:\\users\\user\\source\\repos\\appointmentbookingsystem\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|solutionrelative:implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|c:\\users\\user\\source\\repos\\appointmentbookingsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|c:\\users\\user\\source\\repos\\appointmentbookingsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|c:\\users\\user\\source\\repos\\appointmentbookingsystem\\dto\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|solutionrelative:dto\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|c:\\users\\user\\source\\repos\\appointmentbookingsystem\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|solutionrelative:service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|c:\\users\\user\\source\\repos\\appointmentbookingsystem\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|solutionrelative:interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|c:\\users\\user\\source\\repos\\appointmentbookingsystem\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|solutionrelative:implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|c:\\users\\user\\source\\repos\\appointmentbookingsystem\\dto\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|solutionrelative:dto\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|c:\\users\\user\\source\\repos\\appointmentbookingsystem\\dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|solutionrelative:dto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|c:\\users\\user\\source\\repos\\appointmentbookingsystem\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|solutionrelative:interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|c:\\users\\user\\source\\repos\\appointmentbookingsystem\\interface\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|solutionrelative:interface\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|c:\\users\\user\\source\\repos\\appointmentbookingsystem\\data\\bookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|solutionrelative:data\\bookingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|c:\\users\\user\\source\\repos\\appointmentbookingsystem\\interface\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|solutionrelative:interface\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|c:\\users\\user\\source\\repos\\appointmentbookingsystem\\appointmentbookingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|solutionrelative:appointmentbookingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|c:\\users\\user\\source\\repos\\appointmentbookingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Migrations\\20241031223731_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241031223731_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|c:\\users\\user\\source\\repos\\appointmentbookingsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|c:\\users\\user\\source\\repos\\appointmentbookingsystem\\migrations\\20241031225118_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6497DE61-7CBE-42AF-A5F2-3FD324FDED9D}|AppointmentBookingSystem.csproj|solutionrelative:migrations\\20241031225118_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Implementation\\UserService.cs",
+              "RelativeDocumentMoniker": "Implementation\\UserService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Implementation\\UserService.cs",
+              "RelativeToolTip": "Implementation\\UserService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:47:31.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:29:53.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Interface\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IAppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Interface\\IAppointmentRepository.cs",
+              "RelativeToolTip": "Interface\\IAppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:38:12.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Implementation\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "Implementation\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Implementation\\AppointmentRepository.cs",
+              "RelativeToolTip": "Implementation\\AppointmentRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:44:33.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAEUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:27:27.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Implementation\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "Implementation\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Implementation\\AppointmentService.cs",
+              "RelativeToolTip": "Implementation\\AppointmentService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAjwBQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T00:35:03.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:00:46.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRegistrationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\DTO\\UserRegistrationDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UserRegistrationDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\DTO\\UserRegistrationDTO.cs",
+              "RelativeToolTip": "DTO\\UserRegistrationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T00:13:30.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Models\\Appointment.cs",
+              "RelativeToolTip": "Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:19:53.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Service\\JwtService.cs",
+              "RelativeDocumentMoniker": "Service\\JwtService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Service\\JwtService.cs",
+              "RelativeToolTip": "Service\\JwtService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:10:29.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Interface\\IUserService.cs",
+              "RelativeToolTip": "Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T00:29:17.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Implementation\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Implementation\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Implementation\\UserRepository.cs",
+              "RelativeToolTip": "Implementation\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:39:48.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppointmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\DTO\\AppointmentDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\AppointmentDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\DTO\\AppointmentDTO.cs",
+              "RelativeToolTip": "DTO\\AppointmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T00:16:07.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\DTO\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\DTO\\UserLoginDTO.cs",
+              "RelativeToolTip": "DTO\\UserLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T00:13:51.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:37:05.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Interface\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "Interface\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Interface\\IAppointmentService.cs",
+              "RelativeToolTip": "Interface\\IAppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:36:04.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookingContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Data\\BookingContext.cs",
+              "RelativeDocumentMoniker": "Data\\BookingContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Data\\BookingContext.cs",
+              "RelativeToolTip": "Data\\BookingContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:21:02.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserInterface.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Interface\\IUserInterface.cs",
+              "RelativeDocumentMoniker": "Interface\\IUserInterface.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Interface\\IUserInterface.cs",
+              "RelativeToolTip": "Interface\\IUserInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:34:43.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppointmentBookingSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\AppointmentBookingSystem.csproj",
+              "RelativeDocumentMoniker": "AppointmentBookingSystem.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\AppointmentBookingSystem.csproj",
+              "RelativeToolTip": "AppointmentBookingSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-01T00:12:54.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241031225118_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Migrations\\20241031225118_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241031225118_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Migrations\\20241031225118_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241031225118_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:51:19.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241031223731_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Migrations\\20241031223731_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241031223731_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Migrations\\20241031223731_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241031223731_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:37:31.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T22:21:35.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AppointmentBookingSystem\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:19:34.006Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
